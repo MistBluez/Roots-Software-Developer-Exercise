@@ -46,7 +46,7 @@ body {
       </div>
       <div class="col-auto">
         <button class="btn btn-outline-primary" onclick="loadTodos()">
-          <i class="bi bi-arrow-clockwise"></i> Refresh
+          <i class="bi bi-arrow-clockwise"></i>เรียกดู
         </button>
       </div>
       <div class="col text-end">
